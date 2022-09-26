@@ -1,5 +1,4 @@
 <?php 
-    error_reporting(0);
     require $_SERVER["DOCUMENT_ROOT"].'/utils/bd.php';
 ?>
 <!doctype html>
